@@ -1,0 +1,51 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "name": "Đào Hữu Tý",
+      "gender": "Nam",
+      "birth": "1975-04-15",
+      "death": null,
+      "relation": "Chồng - Trụ cột gia đình",
+      "avatar": "https://i.imgur.com/place-holder.jpg",
+      "father_id": null,
+      "mother_id": null
+    },
+    {
+      "id": "2",
+      "name": "Trần Thị Hường",
+      "gender": "Nữ",
+      "birth": "1978-09-20",
+      "death": null,
+      "relation": "Vợ - Nội trợ đảm đang",
+      "avatar": "https://i.imgur.com/place-holder.jpg",
+      "father_id": null,
+      "mother_id": null
+    },
+    {
+      "id": "3",
+      "name": "Đào Hữu Khánh",
+      "gender": "Nam",
+      "birth": "2002-06-10",
+      "death": null,
+      "relation": "Con trai trưởng",
+      "avatar": "https://i.imgur.com/khanh.jpg",
+      "father_id": "1",
+      "mother_id": "2"
+    },
+    {
+      "id": "4",
+      "name": "Đào Hữu Quốc",
+      "gender": "Nam",
+      "birth": "2005-12-25",
+      "death": null,
+      "relation": "Con trai thứ",
+      "avatar": "https://i.imgur.com/place-holder.jpg",
+      "father_id": "1",
+      "mother_id": "2"
+    }
+  ],
+  "lastUpdate": "2025-11-20",
+  "familyName": "Họ Đào Hữu - Gia đình toàn trai nối dõi",
+  "totalMembers": 4
+}
